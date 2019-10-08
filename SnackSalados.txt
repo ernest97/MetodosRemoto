@@ -1,1 +1,1 @@
-jamon,aceitunas,galletitas
+jamon,aceitunas,galletitas,lomo,salmon ahumado
