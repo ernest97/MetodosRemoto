@@ -2,3 +2,6 @@ Ernesto Martinez Gutierrez
 
 1. clone https://github.com/ernest97/MetodosRemoto.git .
 3. add bitacora.txt / commit -m ""
+5. add+commit
+6. git branch develop
+7. checkout -d feature/Ticket220
