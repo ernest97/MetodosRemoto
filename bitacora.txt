@@ -5,8 +5,14 @@ Ernesto Martinez Gutierrez
 5. add+commit
 6. git branch develop
 7. checkout -d feature/Ticket220
+9. add+commit -m "Paso 09"
+10. checkout develop
+11. checkout -b feature/Ticket221
 13. stash
 13b. checkout 220
+15. add+ commit
+16. checkout Ticket221
+17. stash pop
 18. add+commit -m "Paso 18"
 19. checkout develop
 20. branch feature/Ticket222
