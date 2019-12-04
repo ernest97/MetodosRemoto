@@ -1,1 +1,4 @@
 Ernesto Martinez Gutierrez
+
+1. clone https://github.com/ernest97/MetodosRemoto.git .
+3. add bitacora.txt / commit -m ""
