@@ -2,3 +2,9 @@ Ernesto Martinez Gutierrez
 
 1. clone https://github.com/ernest97/MetodosRemoto.git .
 3. add bitacora.txt / commit -m ""
+9. add+commit -m "Paso 09"
+10. checkout develop
+11. checkout -b feature/Ticket221
+15. add+ commit
+16. checkout Ticket221
+17. stash pop
