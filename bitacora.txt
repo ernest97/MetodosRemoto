@@ -22,3 +22,8 @@ Ernesto Martinez Gutierrez
 24. chout develop
 25. merge Ticket220 --no-ff
 26. merge Ticket221 --no-ff          encontrado y resuelto conflicto en Ticket 221
+28. add+commit
+29. tag "Step29.1"
+30. push origin (todas las ramas)
+31. checkout Ticket222
+32. checout Step29.1 bitacora.txt
