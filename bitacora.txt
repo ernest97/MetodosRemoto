@@ -18,3 +18,7 @@ Ernesto Martinez Gutierrez
 20. branch feature/Ticket222
 21. checkout feature/Ticket220
 22. Fast forward (el ultimo commit esta en la feature)
+23. add +commit
+24. chout develop
+25. merge Ticket220 --no-ff
+26. merge Ticket221 --no-ff          encontrado y resuelto conflicto en Ticket 221
