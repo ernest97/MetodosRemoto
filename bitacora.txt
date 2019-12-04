@@ -2,3 +2,28 @@ Ernesto Martinez Gutierrez
 
 1. clone https://github.com/ernest97/MetodosRemoto.git .
 3. add bitacora.txt / commit -m ""
+5. add+commit
+6. git branch develop
+7. checkout -d feature/Ticket220
+9. add+commit -m "Paso 09"
+10. checkout develop
+11. checkout -b feature/Ticket221
+13. stash
+13b. checkout 220
+15. add+ commit
+16. checkout Ticket221
+17. stash pop
+18. add+commit -m "Paso 18"
+19. checkout develop
+20. branch feature/Ticket222
+21. checkout feature/Ticket220
+22. Fast forward (el ultimo commit esta en la feature)
+23. add +commit
+24. chout develop
+25. merge Ticket220 --no-ff
+26. merge Ticket221 --no-ff          encontrado y resuelto conflicto en Ticket 221
+28. add+commit
+29. tag "Step29.1"
+30. push origin (todas las ramas)
+31. checkout Ticket222
+32. checout Step29.1 bitacora.txt
