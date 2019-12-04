@@ -27,3 +27,8 @@ Ernesto Martinez Gutierrez
 30. push origin (todas las ramas)
 31. checkout Ticket222
 32. checout Step29.1 bitacora.txt
+34. add+commit
+35.  merge Ticket222 --no-ff
+35b. resuelto conflicto  commit
+36. checkout master
+36b. merge develop  --no-ff          
