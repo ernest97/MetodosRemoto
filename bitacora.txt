@@ -5,3 +5,5 @@ Ernesto Martinez Gutierrez
 5. add+commit
 6. git branch develop
 7. checkout -d feature/Ticket220
+13. stash
+13b. checkout 220
